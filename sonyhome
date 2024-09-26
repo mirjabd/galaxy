@@ -4,33 +4,28 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "In6u8TZvphYQpGe9h9ELEw", "kid": "ES/F78qWo81+5CrEbHM1UA"}, {"kty": "oct", "k": "TmxvwA301e1eI+bXJ+siew", "kid": "ES9scQrXvsoGkLyrMXN49Q"}], "type": "temporary"}
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://ia802706.us.archive.org/16/items/sky-sports-main-event-uhd/Sky_Sports_Main_Event_UHD.png",Sky Sports Main Event UHD
 https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-atmos-120.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o8C3ZMHurcfJcq5VOTHDnA", "kid":"ES+FtYLWnyN+Zck9QJy+QA" }, { "kty":"oct", "k":"UgUyhtXQhVxePQbZAfJ70Q", "kid":"ES9QY+2EP6PzWCslFjW91Q" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Sky_Sport_UHD_logo.svg",Sky Sports 1 UHD
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports 1 UHD
 https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(skyuhdsports1)/manifest_2160-atmos-120.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JoR/mdW6OLnHsS5YBNpKYw", "kid":"ES9YgN9j7jEl08VfNPQ6cg" }, { "kty":"oct", "k":"PnFOodeZPvQGfczCFivGlw", "kid":"ES+7IyNU9D3tPWNPpMz6DA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Sky Sports 2 UHD
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports 2 UHD
 https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(skyuhdsports2)/manifest_2160-atmos-120.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E97hv3Tsld/KA7dOuqyBEw", "kid":"ES+GvFMBqTwFZYmFk5BupA" }, { "kty":"oct", "k":"8YxzjLT8YJRgHzSKZNSIJw", "kid":"ES9kq7gfmt706TZECuxD9g" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Sky Sports F1 UHD
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Sky_Ultra_HD_DE_Logo_2016.png",Sky Sports F1 UHD
 https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsf1uhd)/manifest_2160-atmos-120.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ppk/+zA07iPV56uwuYQTg", "kid":"tZswlSAkQ4SgyrHawB3Qvw" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Fox Sports 501
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://logos.fandom.com/wiki/Fox_Cricket?file=FoxCricketHD_Late2018.png", Fox Sports 501
 https://kayo-live-814bffb9b389f652.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/814bffb9b389f652-StrEx-dash-drm/out/v1/22ae45d8f82640829ffb40f200fde851/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"a/+BNGU55LzJq9s1HxyFXg", "kid":"2GGF9Q9ZUlicKAFn7o5FxQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18_1_HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03c2e0af2f8159f9f0ce9b5dbc865f10&key=cd84ed136b0cc71f8ab8cd4d4f6a2e4c
@@ -73,35 +68,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=828
-#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://i.postimg.cc/k4F8Dkhv/Screenshot-2024-01-15-23-25-24-69-1c337646f29875672b5a61192b9010f9.jpg",Willow Cricket HD
-https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"a/+BNGU55LzJq9s1HxyFXg", "kid":"2GGF9Q9ZUlicKAFn7o5FxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18_1_HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",Willow HD-2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",Willow HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=59ed8dc9d4a48857ef8e5865919496cc&key=0d3680bd8b349deda8b7fdd1da71b7f8
-https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8?%7CdrmScheme=clearkey&drmLicense=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=78&key
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://i.postimg.cc/ryj33B0L/image.jpg" group-title="Sports",Star Sports 1 HD
-https://rftv.wtf/tp/tplay.mpd?contentID=78
-
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Cricket",Star Sports 1 HD-2
-https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=235&key
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://i.postimg.cc/hPn1BvmJ/image.jpg" group-title="Sports",Star Sports 2 HD
-https://rftv.wtf/tp/tplay.mpd?contentID=235
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Sky Sports Cricket
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd?%7CdrmScheme=clearkey&drmLicense=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6653c05e42fc4fac8f49d7cbf99498fe&key=3b88f2cff3affef20b265c840bafc0cc
+https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php?id=829
-#EXTINF:-1 group-title="Cricket" tvg-chno="" tvg-id="" tvg-logo="https://media.info/i/lf/0/1507600280/1134.png",Sky Sports Cricket-2
+#EXTINF:-1 group-title="Cricket" tvg-chno="" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_Cricket?file=Sky_Sports_Cricket_2020.png",Sky Sports Cricket
 https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
