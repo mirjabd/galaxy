@@ -7,6 +7,17 @@
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://ia802706.us.archive.org/16/items/sky-sports-main-event-uhd/Sky_Sports_Main_Event_UHD.png",Sky Sports Main Event UHD
 https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-atmos-120.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "k": "In6u8TZvphYQpGe9h9ELEw", "kty": "oct", "kid": "ES_F78qWo81-5CrEbHM1UA" }, { "k": "TmxvwA301e1eI-bXJ-siew", "kty": "oct", "kid": "ES9scQrXvsoGkLyrMXN49Q" } ], "type": "temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+#EXTGRP:24_7
+#EXTINF:-1 type="stream" tvg-logo="https://ia802706.us.archive.org/16/items/sky-sports-main-event-uhd/Sky_Sports_Main_Event_UHD.png" group-logo="https://tinyurl.com/logom3ukodi" group-title="24_7" ,SKY SPORTS MAIN EVENT UHD-Test
+https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-atmos-120.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"o8C3ZMHurcfJcq5VOTHDnA", "kid":"ES+FtYLWnyN+Zck9QJy+QA" }, { "kty":"oct", "k":"UgUyhtXQhVxePQbZAfJ70Q", "kid":"ES9QY+2EP6PzWCslFjW91Q" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports 1 UHD
