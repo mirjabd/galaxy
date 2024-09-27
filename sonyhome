@@ -27,6 +27,9 @@ https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://logos.fandom.com/wiki/Fox_Cricket?file=FoxCricketHD_Late2018.png", Fox Sports 501
 https://kayo-live-814bffb9b389f652.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/814bffb9b389f652-StrEx-dash-drm/out/v1/22ae45d8f82640829ffb40f200fde851/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sports",Fox Sports 501 FHD
+http://54.38.79.60:1234/stream/sports/foxcricket501fhd/master.m3u8?u=mpduk&p=fb90cec3452c71fea09911cd24b17956d540544fa6f03029b17bfbc4cc2ab6ca
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="824" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket FHD
@@ -84,7 +87,7 @@ https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLH
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DwPYVBgmrz2ay6yXXXURZQ", "kid":"AAU6wemxIx7tPrTjVAs64Q" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Cricket" tvg-chno="" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_Cricket?file=Sky_Sports_Cricket_2020.png",Sky Sports Cricket
+#EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_Cricket?file=Sky_Sports_Cricket_2020.png",Sky Sports Cricket
 https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
