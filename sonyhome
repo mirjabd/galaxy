@@ -85,6 +85,12 @@ https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/inde
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DTaAvYs0ne2ot/3R2nG3+A", "kid":"We2NydSkiFfvjlhlkZSWzA" } ], "type":"temporary" }
 https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" group-title="Sports", Willow HD-Direct
+http://93.127.217.212:7070/stream/sports/willowhd/master.m3u8?u=mrzus&p=4ad4f85b52cfadec47b59d4b249a9241a04340d723db529b054757a2651a96e1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/Willow_(TV_channel)#/media/File:Willow_Cricket.PNG" group-title="Sports", Willow Xtra-Direct
+http://93.127.217.212:7070/stream/sports/willowextra/master.m3u8?u=mrzus&p=4ad4f85b52cfadec47b59d4b249a9241a04340d723db529b054757a2651a96e1
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DwPYVBgmrz2ay6yXXXURZQ", "kid":"AAU6wemxIx7tPrTjVAs64Q" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://logos.fandom.com/wiki/Sky_Sports_Cricket?file=Sky_Sports_Cricket_2020.png",Sky Sports Cricket
